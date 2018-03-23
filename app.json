@@ -6,7 +6,7 @@
   "env": {
     "COMMUNITY_NAME": {
       "description": "Your team name",
-      "value": "YOUR TEAM NAME"
+      "value": "YOUR TEAM NAME's Slack Group"
     },
     "SLACK_URL": {
       "description": "Your slack url(ex: socketio.slack.com)",
