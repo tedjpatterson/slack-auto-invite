@@ -1,5 +1,10 @@
-Slack Invite Automation
+
+
+
+Code Connective's Slack Auto Invite Page
 ------------
+
+## What's this all about?
 
 A tiny web application to invite a user into your Slack team.
 
