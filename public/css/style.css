@@ -129,7 +129,7 @@ right: 9px;
 top: 6px;
 padding: 10px 15px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
-background: #8F13D8;
+background: #8021C8;
 color: #ffffff;
 border: none;
 font-family: 'Lato', sans-serif;
@@ -140,7 +140,7 @@ cursor: pointer;
 
 
 .submit:hover{
-background: #8021C8;
+background: #8F13D8;
 }
 
 .error {
