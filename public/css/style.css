@@ -6,7 +6,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input
 html,body{
 margin:0;
 padding:0;
-font-family: 'Open Sans', sans-serif;
+font-family: 'Source Code Pro', sans-serif;
 background: #fff url(../images/bg.jpg) center top no-repeat;
 background-size: cover;
 height: 100%;
@@ -40,22 +40,24 @@ float: left;
 
 
 h1{
-font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
 color: #fff;
 text-align: center;
 font-size: 50px;
-font-weight: 300;
+font-weight: 900;
 margin: 0 0 10px 0;
+text-transform: uppercase;
 }
 
 
 h1 strong{
 font-size: 38px;
-font-weight: 700;
+font-weight: 900;
 }
 
 h2{
 	text-align: center;
+	font-family: 'Source Code Pro', sans-serif;
 	font-weight: 300;
 	font-size: 20px;
 		color: #ffffff;
@@ -97,7 +99,7 @@ width: 448px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 box-shadow: 0 10px 20px rgba(0,0,0,.25);
 border: none;
-font-family: 'Lato', sans-serif;
+font-family: 'Source Code Pro', sans-serif;
 font-size: 16px;
 color: #000000;
 background: #F2F2F2;
@@ -132,7 +134,7 @@ padding: 10px 15px;
 background: #8021C8;
 color: #ffffff;
 border: none;
-font-family: 'Lato', sans-serif;
+font-family: 'Raleway', sans-serif;
 font-size: 14px;
 font-weight: bold;
 cursor: pointer;
