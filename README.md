@@ -4,6 +4,8 @@
 Code Connective's Slack Auto Invite Page
 ------------
 
+For some reason there have been some major issues with this repo and it will need some serious review before it's deployed again anytime soon. We may end up going down another path that aligns us with Google or Typeform forms.
+
 ## What's this all about?
 
 A tiny web application to invite a user into your Slack team.
